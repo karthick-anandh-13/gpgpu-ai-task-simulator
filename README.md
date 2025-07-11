@@ -1,3 +1,8 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/karthick-anandh-13/gpgpu-ai-task-simulator)
+![GitHub forks](https://img.shields.io/github/forks/karthick-anandh-13/gpgpu-ai-task-simulator)
+![GitHub license](https://img.shields.io/github/license/karthick-anandh-13/gpgpu-ai-task-simulator)
+![GitHub last commit](https://img.shields.io/github/last-commit/karthick-anandh-13/gpgpu-ai-task-simulator)
+
 # GPGPU AI Task Simulator 🧠⚡
 
 > _"Can machines think?" — Alan Turing, 1950._
