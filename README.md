@@ -154,8 +154,8 @@ Deep Learning Explorer | GPGPU Hobbyist | Builder on the Edge
 
 > "I wanted to prove to myself that I didn’t need NVIDIA to simulate intelligence."
 
-- GitHub: [your-link-here]
-- Email: [your-email@example.com]
+- GitHub: [https://github.com/karthick-anandh-13]
+- Email: [karthickanandh1304@gmail.com]
 
 ---
 
